@@ -1,0 +1,7 @@
+{
+    "name": "Adel's DevTools Theme",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "A dark theme for Chrome DevTools. Based on Tokyo Night by Enkia, I didn't like the default dark theme on edge so I changed it.",
+    "devtools_page": "devtools.html"
+}

@@ -1,0 +1,38 @@
+.webkit-html-tag-name{
+    color: #f7768e !important;
+}
+
+.webkit-html-attribute{
+    font-weight: bold !important;
+}
+
+.webkit-html-attribute-name{
+    color: #bb9af7 !important;
+}
+
+.webkit-html-attribute-value{
+    color: #9ece6a !important;
+}
+
+.token-keyword{
+    color: #bb9af7 !important;
+}
+
+.token-definition{
+    color: #7aa2f7 !important;
+}
+
+.token-variable{
+    color: #c0caf5 !important;
+}
+
+.widget .vbox.panel .elements{
+    background-color: #1a1b26 !important;
+}
+
+:root{
+    --dom-selected-tag-name-color: #f7768e !important;
+    --dom-tag-name-color: #f7768e !important;
+    --selection-bg-color: #f7768e !important;
+    --dom-tag-name-color: #9aa5ce !important;
+}
