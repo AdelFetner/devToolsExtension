@@ -17,4 +17,4 @@ To use my extension, you have to:
 6. Enjoy
 
 ## To do later on:
-I will probably upload it in the Chrome Web Store, before doing so I would have to look that I'm not infringing any rights, but it would make the installattion much easier as it makes it unnecesary to allow the extension manually.
+I will probably upload it in the Chrome Web Store, before doing so I would have to look that I'm not infringing any rights, but it would make the installation much easier as it makes it unnecesary to allow the extension manually.
