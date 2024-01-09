@@ -2,7 +2,7 @@
     color: #f7768e !important;
 }
 
-.webkit-html-attribute{
+.webkit-html-attribute::after{
     font-weight: bold !important;
 }
 
@@ -90,9 +90,9 @@
     --selection-bg-color: #f7768e !important;
     --dom-tag-name-color: #9aa5ce !important;
     --neutral-layer-l1: #1e1f2b !important;
-    --neutral-layer-l2: #1a1b26 !important;
+    --neutral-layer-l2: #16161e !important;
     --neutral-layer-l3: #161720 !important;
-    --neutral-layer-l4: #16161e !important;
+    --neutral-layer-l4: #1a1b26 !important;
     --sys-color-surface5: #1e1f2b !important;
     --sys-color-surface4: #1a1b26 !important;
     --sys-color-surface3: #161720 !important;
@@ -105,4 +105,14 @@
     --neutral-fill-active: #484848;
     --neutral-fill-selected: #4d4d4d; */
     --sys-color-divider: #474747 !important;
+}
+
+/* styling code */
+.-theme-with-dark-background{
+    --sys-color-token-property: #7aa2f7 !important;
+    --sys-color-token-type: #9ece6a !important;
+    --sys-color-token-keyword: #bb9af7 !important;
+    --sys-color-token-variable-special: #bb9af7 !important;
+    --sys-color-token-atom: #ff9e64 !important;
+    --sys-color-token-number: #f7768e !important;
 }
