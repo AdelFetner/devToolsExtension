@@ -83,4 +83,5 @@
     --sys-color-token-number: #f7768e !important;
     --sys-color-token-string: #9ece6a !important;
     --sys-color-token-definition: #e0af68 !important;
+    --sys-color-cdt-base: var(--neutral-layer-l4) !important;
 }
