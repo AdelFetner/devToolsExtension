@@ -5,7 +5,7 @@ DevTool's Sources Tab
 ![Screenshot showing how the DevTool's sources explorer works](https://github.com/AdelFetner/devToolsExtension/assets/77463982/c133f475-1fe3-466e-86d2-e73857da1aca)
 ***
 DevTool's Elements Tab
-![Screenshot showing how the DevTool's elements browser works](https://github.com/AdelFetner/devToolsExtension/assets/77463982/f27006da-2b13-4f41-98a6-2ee8faa36ebf)
+![Screenshot showing how the DevTool's elements browser works](https://github.com/AdelFetner/devToolsExtension/assets/77463982/693eee94-beec-4aa0-86f6-20b93f70b980)
 
 ## How To use
 To use my extension, you have to:
