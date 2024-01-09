@@ -65,6 +65,25 @@
     background-color: #1a1b26 !important;
 } */
 
+/* lightroom styling */
+.lh-root{
+    background: var(--report-background-color) !important;
+}
+
+.lh-dark{
+    /* lightroom bg styling */
+    --locale-selector-background-color: var(--color-gray-200) !important;
+    --plugin-badge-background-color: #1a1b26 !important;
+    --report-background-color: #161720 !important;
+    --topbar-background-color: #1e1f2b !important;
+    --toplevel-warning-background-color: #342f27;
+    --env-item-background-color: #1a1b26 !important;
+}
+
+.lh-meta__items{
+    border: 1px solid var(--sys-color-divider) !important;
+}
+
 :root{
     --dom-selected-tag-name-color: #f7768e !important;
     --dom-tag-name-color: #f7768e !important;
@@ -74,11 +93,16 @@
     --neutral-layer-l2: #1a1b26 !important;
     --neutral-layer-l3: #161720 !important;
     --neutral-layer-l4: #16161e !important;
-    --sys-color-surface5: #1e1f2b;
-    --sys-color-surface4: #1a1b26;
-    --sys-color-surface3: #161720;
-    --sys-color-surface2: #16161e;
-    --sys-color-surface1: #13111a;
+    --sys-color-surface5: #1e1f2b !important;
+    --sys-color-surface4: #1a1b26 !important;
+    --sys-color-surface3: #161720 !important;
+    --sys-color-surface2: #16161e !important;
+    --sys-color-surface1: #13111a !important;
     --sys-color-cdt-base-container: #1e1f2b !important;
+    --sys-color-neutral-container: #16161e !important;
+    /* --neutral-fill-rest: #4d4d4d;
+    --neutral-fill-hover: #545454;
+    --neutral-fill-active: #484848;
+    --neutral-fill-selected: #4d4d4d; */
     --sys-color-divider: #474747 !important;
 }
