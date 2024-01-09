@@ -30,9 +30,55 @@
     background-color: #1a1b26 !important;
 }
 
+/* toolbar bg */
+/* .tool-actions-side-view{
+    background-color: #1a1b26 !important;
+} */
+
+/* elements panel bg */
+/* .panel{
+    background-color: #1a1b26 !important;
+} */
+
+/* breadcrumbs bg */
+/* .crumbs{
+    background-color: #1a1b26 !important;
+} */
+
+/* styles panel bg */
+
+/* .style-panes-wrapper{
+    background-color: #1a1b26 !important;
+} */
+
+.tabbed-pane-header, .tabbed-pane-shadow.tab-layout-activity-bar .tabbed-pane-header{
+    border-bottom: 1px solid var(--sys-color-divider) !important;
+}
+
+/* toolbar buttons */
+/* .toolbar-button{
+    background-color: #1a1b26 !important;
+} */
+
+/* console styling */
+/* #console-messages, .console-view, .console-settings-pane, .console-toolbar-container > .toolbar, .item-list, .issues-toolbar-container > .toolbar, .issue-category + .children .issue, .issue.expanded, .soft-context-menu{
+    background-color: #1a1b26 !important;
+} */
+
 :root{
     --dom-selected-tag-name-color: #f7768e !important;
     --dom-tag-name-color: #f7768e !important;
     --selection-bg-color: #f7768e !important;
     --dom-tag-name-color: #9aa5ce !important;
+    --neutral-layer-l1: #1e1f2b !important;
+    --neutral-layer-l2: #1a1b26 !important;
+    --neutral-layer-l3: #161720 !important;
+    --neutral-layer-l4: #16161e !important;
+    --sys-color-surface5: #1e1f2b;
+    --sys-color-surface4: #1a1b26;
+    --sys-color-surface3: #161720;
+    --sys-color-surface2: #16161e;
+    --sys-color-surface1: #13111a;
+    --sys-color-cdt-base-container: #1e1f2b !important;
+    --sys-color-divider: #474747 !important;
 }
